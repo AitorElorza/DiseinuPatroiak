@@ -17,5 +17,4 @@ public class SeverityIndexComparator implements Comparator<Symptom> {
 		}
 		return 0;
 	}
-
 }
